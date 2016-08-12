@@ -1,0 +1,9 @@
+Ingredients:
+ - 1 flask
+ - 1 pound of lyrium dust
+ - Water
+
+Directions:
+  1. Pour lyrium dust into the flask.
+  2. Pour water into the flask.
+  3. Stir it for 30 secs.
